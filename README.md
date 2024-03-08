@@ -1,3 +1,3 @@
 # git 
 Bienvenido a Git
-Maria hiede y pablo tambien   
+Maria mola y pablo tambien   
